@@ -10,3 +10,4 @@
 - [CS-Interview](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
 - [渗透相关知识全集 - Micro](https://github.com/Micropoor/Micro8)
+- [中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
