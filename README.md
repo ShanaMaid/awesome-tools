@@ -4,6 +4,7 @@
 - [node使用es6 module规范 - babel-register](https://github.com/babel/babel/tree/master/packages/babel-register)
 - [监听js代码改动自动重启服务 - nodemon](https://github.com/remy/nodemon)
 - [js解析xlsx](https://github.com/SheetJS/js-xlsx)
+- [拖拽拉伸旋转- interact.js](https://github.com/taye/interact.js)
 
 
 ## knowledge
