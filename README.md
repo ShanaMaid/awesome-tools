@@ -1,4 +1,4 @@
-# module
+## module
 
 - [npm包在线分析工具 - bundlephobia](https://github.com/pastelsky/bundlephobia)
 - [node使用es6 module规范 - babel-register](https://github.com/babel/babel/tree/master/packages/babel-register)
@@ -6,6 +6,8 @@
 - [js解析xlsx](https://github.com/SheetJS/js-xlsx)
 - [拖拽拉伸旋转- interact.js](https://github.com/taye/interact.js)
 
+## tool
+- [在线编码工具](https://stackblitz.com/)
 
 ## knowledge
 - [CS-Interview](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
