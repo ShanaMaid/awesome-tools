@@ -6,6 +6,7 @@
 - [js解析xlsx](https://github.com/SheetJS/js-xlsx)
 - [拖拽拉伸旋转- interact.js](https://github.com/taye/interact.js)
 - [表格可视化- handsontable](https://handsontable.com/)
+- [webpack bundle分析](https://github.com/webpack-contrib/webpack-bundle-analyzer)
 
 ## tool
 - [在线编码工具](https://stackblitz.com/)
