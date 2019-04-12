@@ -7,6 +7,7 @@
 - [拖拽拉伸旋转- interact.js](https://github.com/taye/interact.js)
 - [表格可视化- handsontable](https://handsontable.com/)
 - [webpack bundle分析](https://github.com/webpack-contrib/webpack-bundle-analyzer)
+- [获取chrome浏览器cookie](https://github.com/bertrandom/chrome-cookies-secure)
 
 ## tool
 - [在线编码工具](https://stackblitz.com/)
